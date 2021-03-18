@@ -1,2 +1,2 @@
 # huobi
-bit/eth/ltc ... price monitor
+btc/eth/ltc ... price monitor
